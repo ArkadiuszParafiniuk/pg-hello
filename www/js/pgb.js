@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function infoAboutMe() {
+
+	info =  'Hi, I am your Arek :-)';
+
+	navigator.notification.alert(info);
+	
+}
